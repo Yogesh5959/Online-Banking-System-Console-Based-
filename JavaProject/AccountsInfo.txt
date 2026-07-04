@@ -1,4 +1,0 @@
-ACCOUNT NO : HOLDER NAME
-101 : David
-102 : Bobby
-103 : Alice
